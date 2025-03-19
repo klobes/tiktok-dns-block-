@@ -28,6 +28,8 @@
 (^|\.)muscdn\.com$
 (^|\.)musical\.ly$
 (\.|^)www\.tiktok\.com$
+||a706.t.akamai.net^
+||all.oswebrtc.sched.ovscdns.net^
 ||push-rtmp-l11-sg01.tiktokcdn.com.tlivepush.com^
 ||all.tliveuptrans.sched.ovscdns.net^
 ||log16-normal-useast1a.tiktokv.com.bytewlb.akadns.net^
